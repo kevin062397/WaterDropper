@@ -1,3 +1,8 @@
+/**
+ * Author: Haoyuan Xia
+ * Updated: 2018.06
+ */
+
 #define BUTTON 2
 #define METERING 8
 #define SHUTTER 9
